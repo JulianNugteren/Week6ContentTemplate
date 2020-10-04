@@ -1,0 +1,33 @@
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.center {
+    margin: 0 auto;
+    width: 800px;
+}
+
+h1 {
+    font-size: 36px;
+
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.p1 {
+    background-color: #def6ed;
+    border-radius: 4px;
+    padding: 25px;
+    margin: 25px;
+}
+
+ul li {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
